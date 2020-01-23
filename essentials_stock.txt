@@ -1,0 +1,52 @@
+water 23 2.0
+
+wine 2 34.0
+
+chocolate 23 2.0
+
+chocolate 23 2.0
+
+biscuit 1 12.0
+
+biscuit 1 12.0
+
+red 23 12.0
+
+red 23 12.0
+
+Milo 10 22.0
+
+Milo 10 22.0
+
+Bread 50 2.0
+
+Leggings 20 80.0
+
+Pen 100 1.0
+
+Pencil 100 1.0
+
+Eraser 50 1.0
+
+Charger 50 50.0
+
+Clock 20 10.0
+
+Book 200 10.0
+
+Bulb 50 12.0
+
+Bedspread 100 45.0
+
+Mulltisocket 200 15.0
+
+Blade 300 1.0
+
+Biscuit 200 3.0
+
+Condom 1000 5.0
+
+Sharpener 50 1.0
+
+HDMI 50 50.0
+
